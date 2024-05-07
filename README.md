@@ -4,7 +4,11 @@
 A simple task list with filtering and a task search bar.
 
 ## Tech Stack
-React
-Redux toolkit
-TypeScript
-styled components
+<ul>
+<li>React
+<li>Redux toolkit
+<li>TypeScript
+<li>styled components
+<ul/>
+
+
